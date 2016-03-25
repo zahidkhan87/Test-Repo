@@ -40,4 +40,6 @@ First Header | Second Header
 First 1| Second 1
 First 2| Second 2
 
+<del>this line is deleted</del>
+<del>also delete this line</del>
 
