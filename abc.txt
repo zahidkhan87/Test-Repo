@@ -2,3 +2,7 @@ testing
 phir se testing
 testing
 phir se testing
+P5K30BLK-012XBJ1
+P5K30BLK-012XGP1
+P5K30BLK-012XIT1
+P2C30YLJ-0195EY1
